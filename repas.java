@@ -11,4 +11,12 @@ public class Repas {
         this.date = date;
     }
 
+    // Getter et Setter pour le numéro
+    public int getNumero() {
+        return numero;
+    }
+
+    public void setNumero(int numero) {
+        this.numero = numero;
+    }
 }
